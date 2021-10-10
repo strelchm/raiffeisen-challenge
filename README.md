@@ -2,24 +2,20 @@
 Task 4 boot camp: Socks API.
 
 **Features:**
-- [x] Unique word statistics of html-document
-- [x] Statistics is saved to DB. History getting posibility
-- [x] Posibility of reading big documents - parsing is going througt the input streams
-- [x] Integration test covers biggest bug possibility
-- [x] Useful exception handling and logging ("logs" folder)
+- [x] All task requirements are done
 
 **Technologies:**
 - Spring Boot
 - Spring Walidation
 - Spring Data Jpa
-- Heroku
 - Project Lombok
 - Mapstruct
+- Liquibase
 - PostgreSQL
+- Heroku
+- Docker
 
-
-
-1. **Local deployment** 
+1. **Deployment with Docker** 
 
 Run the next command from root directory (install Docker before this):
 ```
